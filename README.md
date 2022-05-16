@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EliCYe
+- 👋 Hi, I’m @Elijah-Ye
 - 👀 I’m interested in tech stuff
 - 🌱 I’m currently learning C++, Verilog, Digital Signal Processing
 - 💞️ I’m looking to collaborate on any project about computer system.
