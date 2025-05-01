@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Elijah-Ye, c/o 2024 @UIUC
+- 👋 Hi, I’m @Elijah-Ye, MS ECE @UIUC
 - 👀 I’m interested in tech stuff
-- 🌱 I’m currently learning C++, SQL, SystemVerilog
-- 💞️ I’m looking to collaborate on any project about computer system.
+- 🌱 I’m currently learning how to accelerate LLM through system optimization
+- 💞️ I’m looking to collaborate on any project about computer architecture & systems
 - 📫 How to reach me: elijah.gaohan.ye@gmail.com
 
 <!---
