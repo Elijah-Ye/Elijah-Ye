@@ -7,11 +7,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah-Ye&theme=tokyonight&hide_border=true" alt="Elijah's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah-Ye&theme=tokyonight&hide_border=true&v=1" alt="Elijah's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elijah-Ye&theme=tokyonight" alt="Elijah's GitHub Stats and Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elijah-Ye&theme=tokyonight&v=1" alt="Elijah's GitHub Stats and Languages" />
 </div>
